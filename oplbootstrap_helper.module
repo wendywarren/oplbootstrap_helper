@@ -1,2 +1,5 @@
 <?php
-
+/**
+ * @file
+ * Helper functionality for use with the oplbootstrap theme.
+ */
