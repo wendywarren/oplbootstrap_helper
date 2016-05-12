@@ -1,4 +1,4 @@
-name = OPL Bootstrap Theme Helper Module
+name = OPL Bootstrap Theme Helper
 description = Helper module for the OPL Bootstrap theme.
 core = 7.x
 package = OPL Custom
