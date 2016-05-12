@@ -1,0 +1,6 @@
+name = OPL Bootstrap Theme Helper Module
+description = Helper module for the OPL Bootstrap theme.
+core = 7.x
+package = OPL Custom
+dependencies[] = features
+features[features_api][] = api:2
