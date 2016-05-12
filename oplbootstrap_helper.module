@@ -1,2 +1,8 @@
 <?php
+/**
+ * @file
+ * Code for the OPL Bootstrap Theme Helper Module feature.
+ */
+
+include_once 'oplbootstrap_helper.features.inc';
 
